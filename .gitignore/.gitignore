@@ -1,0 +1,12 @@
+source
+exec.*
+run_*
+web.config
+log.txt
+/sitemap*
+cgi-bin/
+.cache/*
+.bash_history
+/local.zip
+*node_modules*
+/vendor*
